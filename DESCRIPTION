@@ -1,0 +1,13 @@
+Package: CFAR
+Title: What the Package Does (one line, title case)
+Version: 1.0
+Authors: Xialu Liu
+Description: What the package does (one paragraph).
+Depends: MASS, splines
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
